@@ -1,4 +1,4 @@
-!/usr/bin/env pwsh
+#!/usr/bin/env pwsh
 
 Write-Output 'The following "npm" command (if executed) installs the "cross-env"'
 Write-Output 'dependency into the local "node_modules" directory, which will ultimately'
